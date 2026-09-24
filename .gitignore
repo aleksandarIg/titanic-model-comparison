@@ -1,0 +1,12 @@
+# Generated output
+plots/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Jupyter / editor
+.ipynb_checkpoints/
+.vscode/
